@@ -1,3 +1,5 @@
 streamlit
-pymongo[srv]
-Pillow
+pandas
+numpy
+scikit-learn
+plotly
